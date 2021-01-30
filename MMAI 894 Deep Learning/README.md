@@ -1,7 +1,7 @@
 # 894 Deep Learning
 
 This folder is for 894 Deep Learning, please put the correct file in the correct folder.
-Exercise folder is for sharing your colab code with others, please upload your file **24h after the ddl** of each exercise. It is optional to share your code with others
+Exercise folder is for sharing your colab code with others, please upload your file **24h after the ddl** of each exercise. It is optional to share your exercise code with others.
 
 Final Project is where the team work on the project together. All project related code and files should be in this folder
 
@@ -23,4 +23,4 @@ before you merge your code to the main branch, please make sure there is no conf
 
 ## How to use the python file
 
-Each section start with '#' in front, '##' means subsection under that section
+Each section start with **'#'** in front, **'##'** means subsection under that section
