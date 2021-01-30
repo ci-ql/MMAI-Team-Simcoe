@@ -18,6 +18,12 @@ After cloning the repo, switch to a new branch, create edits on your own branch 
 The format of naming your branch is: **Name_Part**
 For example: Pj_EDA
 
+## Upload Files
+please do not use direct 'Add File' button on the web, add and update your file via terminal through the following steps:
+1. git add yourfilename.py
+2. git commit -m 'your commit message'
+3. git push
+
 ## Github merge
 before you merge your code to the main branch, please make sure there is no conflicts. Each person should be responsible to solve their own conflit with the main branch.
 
